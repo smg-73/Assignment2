@@ -1,0 +1,121 @@
+nav {
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    background-color: rgb(32, 32, 32);
+    padding: 30px;
+
+}
+
+* {
+    background-color:  rgb(185, 180, 180);
+    
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(75, 79, 140);
+    padding: 20px;
+    padding: 25px;
+    margin: 0px;
+}
+
+#about h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(75, 79, 140);
+    padding: 30px; 
+    margin: 0px; 
+} 
+
+
+#about {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+    background-color: rgb(75, 79, 140);
+    padding: 3px;
+    margin: 0px;
+    
+}
+
+#aboutPic {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(75, 79, 140);
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    background-color:rgb(216, 154, 55);
+    color: white;
+    padding-top: 20px;
+    margin-bottom: 0px;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    margin: 0px;
+}
+#gallery  { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(216, 154, 55);
+    padding: 20px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+#gallery img {
+    border: 2px solid white;
+    background-color: rgb(216, 154, 55);
+    
+}
+
+#timeline h3{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(188, 79, 76);
+    border-top: 0px
+}
+#timeline  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(188, 79, 76);
+    border: 2px solid black;
+    border-top: 0px;
+    border-bottom: 1px;
+
+}
+
+ol {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(188, 79, 76);
+
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    color: black;
+    background-color: rgb(188, 79, 76);
+}
+
+small {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(75, 79, 140);
+    padding: 20px;
+    border: 2px solid black;
+}
